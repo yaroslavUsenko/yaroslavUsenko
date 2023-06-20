@@ -6,16 +6,25 @@
   </iframe>
 </div>
 
-# About me
+<img src="/src/Intro.png" width="100%" height="auto" />
 
 ## Hi 👋, I'm Yaroslav
 
 Frontend React developer with a focus on creating exceptional user experiences. I have experience collaborating in teams and delivering high-quality code. Currently, I'm working on a startup project that enhances communication between students and universities. I enjoy learning and staying up-to-date with industry trends. Let's connect and explore new opportunities!
-<br /><br />
 
-# 💻 Tech Stack:
+## How you can connect with me:
 
-## Basic:
+📧 You can send me email - **usenko.0265@gmail.com**
+
+<a href="https://www.linkedin.com/in/yaroslav-usenko/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" height="40" /></a>
+<a href="https://t.me/javascritizer" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="38" height="38" /></a>
+<a href="https://www.github.com/yaroslavUsenko" target="_blank" rel="noreferrer"><img style="border-radius: 50%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" /></a>
+<a href="https://discord.com/users/6844" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="40" height="40" /></a>
+<br />
+
+## 💻 Tech Stack:
+
+### Basic:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40" alt="HTML5" /></a>
@@ -24,7 +33,7 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" height="40" alt="TypeScript" /></a>
 </div><br />
 
-## Frameworks / Libraries / Preprocessors:
+### Frameworks / Libraries / Preprocessors:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
@@ -42,7 +51,7 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50" height="50"/> </a>
 </div><br />
 
-## Additional:
+### Additional:
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 10px">
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Babel_Logo.svg" alt="babel" width="65" height="40"/> </a>
@@ -58,9 +67,9 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" alt="figma" width="45" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://prettier.io/icon.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="figma" width="40" height="40"/> </a>
-</div><br /><br />
+</div><br />
 
-## Interesting to learn:
+### Interesting to learn:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>
@@ -75,11 +84,21 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img style="background-color: #ffffff; border-radius: 20%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1200px-Three.js_Icon.svg.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://stuggi.files.wordpress.com/2019/08/nginx-icon-outline-hex-rgb-266x302.png" alt="figma" width="38" height="42"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="figma" width="40" height="40"/> </a>
-</div><br /><br />
+</div><br />
+
+## GitHub Statistic
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaroslavusenko" alt="yaroslavusenko" /></a> </p>
+
+![](https://github-readme-stats.vercel.app/api?username=yaroslavUsenko&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=yaroslavUsenko&theme=blueberry&hide_border=false)<br/>
+
+[![](https://visitcount.itsvg.in/api?id=yaroslavUsenko&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ## Support:
 
-### You can buy me a cup of coffee if you want. 🙄☕
+#### You can buy me a cup of coffee if you want. 🙄☕
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px">
 <a href="https://www.buymeacoffee.com/yarikFrontend"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="140" alt="https://www.buymeacoffee.com/yarikFrontend"/></a>
