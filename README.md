@@ -68,10 +68,10 @@ or write to me on social networks:
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40" alt="TailwindCSS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9270fc40ed052b4158b76122cc9984c9c9670b717577d3e89497629fc25782e7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" alt="figma" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
+<a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="figma" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9270fc40ed052b4158b76122cc9984c9c9670b717577d3e89497629fc25782e7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" alt="figma" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://v2.nuxt.com/" target="_blank" rel="noreferrer"> <img style="border-radius: 20%" src="https://develop365.gitlab.io/nuxtjs-2.8.X-doc/en/logos/nuxt-icon-white.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://rxjs.dev/assets/images/favicons/favicon-192x192.png" alt="figma" width="40" height="40"/> </a>
@@ -97,5 +97,5 @@ or write to me on social networks:
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px">
 <a href="https://www.buymeacoffee.com/yarikFrontend"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="https://www.buymeacoffee.com/yarikFrontend"/></a>
 <a href="https://ko-fi.com/yarikfrontend"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="140" alt="https://ko-fi.com/yarikfrontend" /></a>
-<a href="https://paypal.me/yaroslavUsenko"> <img align="left" src="/src/paypal-logo.png" height="40" width="140" alt="https://ko-fi.com/yarikfrontend" /></a>
+<a href="https://paypal.me/yaroslavUsenko"> <img align="left" src="/src/paypal-logo.png" height="40" width="120" alt="https://ko-fi.com/yarikfrontend" /></a>
 </div>
