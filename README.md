@@ -1,11 +1,3 @@
-<div style="position: relative; width: 100%; height: 0; padding-top: 33.3333%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFmS83Gfbg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-
 <img src="/src/Intro.png" width="100%" height="auto" />
 
 ## Hi 👋, I'm Yaroslav
@@ -16,11 +8,13 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 
 📧 You can send me email - **usenko.0265@gmail.com**
 
+or or write to me on social networks:
+
 <a href="https://www.linkedin.com/in/yaroslav-usenko/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" height="40" /></a>
 <a href="https://t.me/javascritizer" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="38" height="38" /></a>
 <a href="https://www.github.com/yaroslavUsenko" target="_blank" rel="noreferrer"><img style="border-radius: 50%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" /></a>
 <a href="https://discord.com/users/6844" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="40" height="40" /></a>
-<br />
+<br /><br />
 
 ## 💻 Tech Stack:
 
@@ -31,7 +25,7 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40" height="40" alt="TypeScript" /></a>
-</div><br />
+</div>
 
 ### Frameworks / Libraries / Preprocessors:
 
@@ -49,7 +43,7 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" alt="jest" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="50" height="50"/> </a>
-</div><br />
+</div>
 
 ### Additional:
 
@@ -67,7 +61,7 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/1200px-ESLint_logo.svg.png" alt="figma" width="45" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://prettier.io/icon.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png" alt="figma" width="40" height="40"/> </a>
-</div><br />
+</div>
 
 ### Interesting to learn:
 
@@ -88,13 +82,13 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 
 ## GitHub Statistic
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaroslavusenko" alt="yaroslavusenko" /></a> </p>
-
-![](https://github-readme-stats.vercel.app/api?username=yaroslavUsenko&theme=blueberry&hide_border=false&include_all_commits=false&count_private=true)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaroslavUsenko&theme=blueberry&hide_border=false)<br/>
-
 [![](https://visitcount.itsvg.in/api?id=yaroslavUsenko&icon=0&color=6)](https://visitcount.itsvg.in)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavUsenko&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavUsenko&theme=github_dark) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavUsenko&theme=github_dark&utcOffset=2)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslavUsenko&theme=github-dark-blue&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
 ## Support:
 
