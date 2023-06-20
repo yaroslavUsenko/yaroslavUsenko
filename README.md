@@ -8,7 +8,7 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 
 📧 You can send me email - **usenko.0265@gmail.com**
 
-or or write to me on social networks:
+or write to me on social networks:
 
 <a href="https://www.linkedin.com/in/yaroslav-usenko/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" height="40" /></a>
 <a href="https://t.me/javascritizer" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="38" height="38" /></a>
@@ -88,14 +88,14 @@ or or write to me on social networks:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavUsenko&theme=github_dark) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavUsenko&theme=github_dark&utcOffset=2)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslavUsenko&theme=github-dark-blue&hide_border=true&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslavUsenko&theme=github-dark-blue&card_width=700)](https://git.io/streak-stats)
 
 ## Support:
 
 #### You can buy me a cup of coffee if you want. 🙄☕
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px">
-<a href="https://www.buymeacoffee.com/yarikFrontend"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="140" alt="https://www.buymeacoffee.com/yarikFrontend"/></a>
-<a href="https://ko-fi.com/yarikfrontend"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="35" width="140" alt="https://ko-fi.com/yarikfrontend" /></a>
-<a href="https://paypal.me/yaroslavUsenko" style="display: inline-flex; justify-content: center; align-items: center; background-color: #fff; height: 35px; width: 130px; border-radius: 10px;"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/2560px-PayPal.svg.png" height="20" width="80" alt="https://ko-fi.com/yarikfrontend" /></a>
+<a href="https://www.buymeacoffee.com/yarikFrontend"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="https://www.buymeacoffee.com/yarikFrontend"/></a>
+<a href="https://ko-fi.com/yarikfrontend"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="140" alt="https://ko-fi.com/yarikfrontend" /></a>
+<a href="https://paypal.me/yaroslavUsenko"> <img align="left" src="/src/paypal-logo.png" height="30" width="120" alt="https://ko-fi.com/yarikfrontend" /></a>
 </div>
