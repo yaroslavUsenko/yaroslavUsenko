@@ -82,7 +82,7 @@ or write to me on social networks:
 
 ## GitHub Statistic
 
-[![](https://visitcount.itsvg.in/api?id=yaroslavUsenko&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=yaroslavUsenko&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavUsenko&theme=github_dark)
 
