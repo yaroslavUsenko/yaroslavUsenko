@@ -6,11 +6,11 @@ Frontend React developer with a focus on creating exceptional user experiences. 
 
 ## How you can connect with me:
 
-📧 You can send me email - **usenko.0265@gmail.com**
+📧 You can send me an email - **usenko.0265@gmail.com**
 
 or write to me on social networks:
 
-<a href="https://www.linkedin.com/in/yaroslav-usenko/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" height="40" /></a>
+<a href="https://www.linkedin.com/in/yaroslav-usenko/" target="_blank" rel="no-referrer"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="40" height="40" /></a>
 <a href="https://t.me/javascriptter" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width="38" height="38" /></a>
 <a href="https://www.github.com/yaroslavUsenko" target="_blank" rel="noreferrer"><img style="border-radius: 50%" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" /></a>
 <a href="https://discord.com/users/6844" target="_blank" rel="noreferrer"><img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/discord-512.png" width="40" height="40" /></a>
