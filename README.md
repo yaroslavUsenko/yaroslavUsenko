@@ -89,13 +89,3 @@ or write to me on social networks:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavUsenko&theme=github_dark) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavUsenko&theme=github_dark&utcOffset=2)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslavUsenko&theme=github-dark-blue&card_width=700)](https://git.io/streak-stats)
-
-## Support:
-
-#### You can buy me a cup of coffee if you want. 🙄☕
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px">
-<a href="https://www.buymeacoffee.com/yarikFrontend"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="140" alt="https://www.buymeacoffee.com/yarikFrontend"/></a>
-<a href="https://ko-fi.com/yarikfrontend"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="140" alt="https://ko-fi.com/yarikfrontend" /></a>
-<a href="https://paypal.me/yaroslavUsenko"> <img align="left" src="/src/paypal-logo.png" height="40" width="120" alt="https://ko-fi.com/yarikfrontend" /></a>
-</div>
