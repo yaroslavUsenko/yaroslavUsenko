@@ -87,5 +87,3 @@ or write to me on social networks:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yaroslavUsenko&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavUsenko&theme=github_dark) &nbsp; &nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavUsenko&theme=github_dark&utcOffset=2)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yaroslavUsenko&theme=github-dark-blue&card_width=700)](https://git.io/streak-stats)
