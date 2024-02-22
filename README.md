@@ -33,7 +33,9 @@ or write to me on social networks:
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="figma" width="35" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9270fc40ed052b4158b76122cc9984c9c9670b717577d3e89497629fc25782e7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f382f38382f5374617475735f6975636e5f45585f69636f6e2e7376672f34383070782d5374617475735f6975636e5f45585f69636f6e2e7376672e706e67" alt="figma" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="expres" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40" alt="TailwindCSS" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer"> <img src="https://reactrouter.com/_brand/react-router-mark-color-inverted.png" alt="reactnative" width="55" height="35"/> </a>
 <a href="https://www.react-hook-form.com/" target="_blank" rel="noreferrer" ><span style="display: inline-block; width: 40px; height: 42px; overflow: hidden; border-radius: 20%"><img style="transform: scale(1.4)" src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" alt="figma" width="40" height="45"/></span> </a>
@@ -68,8 +70,6 @@ or write to me on social networks:
 ### Learn now:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="40" height="40" alt="TailwindCSS" /></a>
 <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" alt="figma" width="40" height="40"/> </a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png" alt="figma" width="40" height="40"/> </a>
