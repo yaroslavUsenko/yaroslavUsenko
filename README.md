@@ -36,6 +36,11 @@
 
 ## Tech Stack
 
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Core Technologies:
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
@@ -46,6 +51,9 @@
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python" /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" /></a>
 </div>
+
+</td>
+<td width="50%" valign="top">
 
 ### Frameworks & Libraries:
 
@@ -61,6 +69,11 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="jest" width="32" height="32"/> </a>
 </div>
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### Development Tools:
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 8px">
@@ -73,6 +86,9 @@
 <a href="https://prettier.io/" target="_blank" rel="noreferrer"> <img src="https://prettier.io/icon.png" alt="prettier" width="32" height="32"/> </a>
 </div>
 
+</td>
+<td width="50%" valign="top">
+
 ### Embedded & Computer Vision:
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px">
@@ -81,7 +97,12 @@
 <a href="https://docs.ultralytics.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="YOLO" width="64" height="32"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="32" height="32"/> </a>
 <a href="https://platformio.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/platformio.svg" alt="PlatformIO" width="32" height="32"/> </a>
-</div><br />
+</div>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -95,8 +116,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yaroslavUsenko&theme=radical" alt="stats" width="250" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yaroslavUsenko&theme=radical&utcOffset=2" alt="productive time" width="250" />
 </p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yaroslavUsenko&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="500" />
 
 </div>
 
