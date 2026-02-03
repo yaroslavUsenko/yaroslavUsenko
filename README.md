@@ -37,7 +37,7 @@
 ## Tech Stack
 
 <div align="center">
-<table style="max-width: 800px; border: none;">
+<table style="width: 700px; border: none;">
 <tr>
 <td width="50%" valign="top" style="border: none;">
 
@@ -61,7 +61,6 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react" width="28" height="28"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="28" height="28"/> </a>
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs" width="24" height="28"/> </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="28" height="28"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="28" height="28"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="28" height="28" alt="TailwindCSS" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="26" height="26" alt="Material UI" /></a>
