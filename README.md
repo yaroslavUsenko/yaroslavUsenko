@@ -3,13 +3,13 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🎯 **Web Development**: Built applications with React, TypeScript, Node.js for 10k+ users
-- 🤖 **Computer Vision**: Developed object detection and tracking systems using OpenCV and YOLO
-- ⚙️ **Production Automation**: Created embedded solutions for quality control and process monitoring
-- 🔧 **Hardware Programming**: Experience with Raspberry Pi, microcontrollers, and firmware development
-- 🛡️ Currently working in **military/defense sector** (under NDA)
+- **Web Development**: Built applications with React, TypeScript, Node.js for 10k+ users
+- **Computer Vision**: Developed object detection and tracking systems using OpenCV and YOLO
+- **Production Automation**: Created embedded solutions for quality control and process monitoring
+- **Hardware Programming**: Experience with Raspberry Pi, microcontrollers, and firmware development
+- Currently working in **military/defense sector** (under NDA)
 
 ---
 
