@@ -39,7 +39,7 @@
 <div align="center">
 <table style="min-width: 700px; border: none;">
 <tr>
-<td width="50%" valign="top" style="border: none;">
+<td width="280px" valign="top" style="border: none;">
 
 ### Core Technologies:
 
@@ -53,7 +53,7 @@
 </div>
 
 </td>
-<td width="50%" valign="top" style="border: none;">
+<td width="280px" valign="top" style="border: none;">
 
 ### Frameworks & Libraries:
 
@@ -71,7 +71,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="border: none;">
+<td width="280px" valign="top" style="border: none;">
 
 ### Development Tools:
 
@@ -86,7 +86,7 @@
 </div>
 
 </td>
-<td width="50%" valign="top" style="border: none;">
+<td width="280px" valign="top" style="border: none;">
 
 ### Embedded & Computer Vision:
 
