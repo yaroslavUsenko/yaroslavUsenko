@@ -37,7 +37,7 @@
 ## Tech Stack
 
 <div align="center">
-<table style="width: 700px; border: none;">
+<table style="min-width: 700px; border: none;">
 <tr>
 <td width="50%" valign="top" style="border: none;">
 
